@@ -1,0 +1,2 @@
+ls
+My favorite food is apple.
